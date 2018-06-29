@@ -1,0 +1,7 @@
+[package]
+name = "central_tendency"
+version = "0.1.0"
+authors = ["Giorgio Delgado <hi@gdelgado.ca>"]
+
+[dependencies]
+rand = "0.3.14"
